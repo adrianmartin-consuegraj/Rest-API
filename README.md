@@ -1,7 +1,7 @@
 # Spring-Microservices
 Microservices app build using Spring Boot
 
-## How to proceed?
+## How was it built?
     ► 1. create a project called 'user.service' which is going to be the main microservice.
       # now you need to create some packages with some classes and interfaces inside of each one:
         ≡ entity: contains a class called 'User'
