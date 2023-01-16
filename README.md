@@ -1,5 +1,4 @@
 # Spring boot - Rest API
-A Rest API build using Spring Boot
 
 ## How was it built?
     ► 1. create a project called 'user.service' which is going to be the main service.
